@@ -1,7 +1,7 @@
 {
   "name": "pa1d",
   "description": "One payment module to rule them all",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/sackio/pa1d",
   "author": {
     "name": "Ben Sack",
