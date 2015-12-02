@@ -34,7 +34,7 @@
     "grunt": "~0.4.5"
   },
   "dependencies": {
-    "braintree": "*"
+    "braintree": "1.31.0"
   , "jsbelt": "*"
   , "optionall": "*"
   , "underscore": "*"
